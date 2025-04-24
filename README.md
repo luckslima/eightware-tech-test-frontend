@@ -15,7 +15,7 @@ Este é o frontend da aplicação desenvolvida para o teste técnico da Eightwar
 
 1. Clone o repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO_FRONTEND>
+   git clone https://github.com/luckslima/eightware-tech-test-frontend.git
    cd frontend
 
 2. Instale as dependências:
@@ -31,8 +31,8 @@ obs: O frontend estará disponível em: http://localhost:3000
 ## 🧪 Como rodar os testes
 
 1. Execute os testes com o Jest:
-
-npm test
+   ```bash
+   npm test
 
 2. Cobertura dos testes:
 
