@@ -19,12 +19,12 @@ Este é o frontend da aplicação desenvolvida para o teste técnico da Eightwar
    cd frontend
 
 2. Instale as dependências:
-
-npm install
+   ```bash
+   npm install
 
 3. Inicie o servidor:
-
-npm run dev
+   ```bash
+   npm run dev
 
 obs: O frontend estará disponível em: http://localhost:3000
 
